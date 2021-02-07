@@ -1,2 +1,11 @@
-Video reference - 
-https://www.youtube.com/watch?v=GB-uyDR20Qg
+Original program for Fading effect - 
+pwm_fade.py
+
+Newly added buzzer programs -
+
+To play notes -
+buzzer.py
+
+To play random sound based on vibration sensor input (touch) -
+Buzzer+VibrationSensor
+
