@@ -6,6 +6,10 @@ Newly added buzzer programs -
 To play notes -
 buzzer.py
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=GB-uyDR20Qg
+" target="_blank"><img src="http://img.youtube.com/vi/GB-uyDR20Qg/0.jpg" 
+alt="Pico Playing 7 notes" width="240" height="180" border="10" /></a>
+
 To play random sound based on vibration sensor input (touch) -
 Buzzer+VibrationSensor
 
